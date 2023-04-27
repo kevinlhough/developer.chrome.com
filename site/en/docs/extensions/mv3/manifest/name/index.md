@@ -25,7 +25,7 @@ It is displayed in the following locations:
 - Extensions page (chrome://extensions)
 - [Chrome Web Store][cws]
 
-See also [Short Name](short-name).
+See also [Short Name][short-name].
 
 [api-i18n]: /docs/extensions/i18n
 [cws]: https://chrome.google.com/webstore
